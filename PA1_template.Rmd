@@ -88,3 +88,6 @@ library("lattice")
 
 xyplot(steps~interval| weekDay, data=df,layout = c(1, 2),type="l")
 
+
+
+
